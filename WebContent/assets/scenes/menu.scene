@@ -1,0 +1,28 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.3",
+  "-version": 1,
+  "displayList": {
+    "-id": "ca536260-aee4-4ce6-a248-1282bd878ae8",
+    "-type": "DisplayList",
+    "children": [{
+      "-id": "70781fd5-806a-4af9-8eae-ad1aa9db9465",
+      "-type": "Image",
+      "children": [],
+      "variableName": "bonbon1.png",
+      "variableField": false,
+      "x": 389.5444030761719,
+      "y": 191.64218139648438,
+      "textureKey": "pack",
+      "textureFrame": "bonbon1.png"
+    }]
+  },
+  "groups": {
+    "-id": "51cd0a59-8759-4aec-b2fb-2c3ae77da5cd",
+    "-type": "Groups",
+    "children": []
+  },
+  "borderHeight": 450,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "menu"
+}

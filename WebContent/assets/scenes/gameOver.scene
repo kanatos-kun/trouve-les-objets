@@ -1,0 +1,18 @@
+{
+  "-app": "Scene Editor - Phaser Editor v2.0.3",
+  "-version": 1,
+  "displayList": {
+    "-id": "ba3cbb45-a749-4a15-8037-94f1890a8f80",
+    "-type": "DisplayList",
+    "children": []
+  },
+  "groups": {
+    "-id": "c8fade31-c260-416b-a184-a777e9cfb39f",
+    "-type": "Groups",
+    "children": []
+  },
+  "borderHeight": 450,
+  "createMethodName": "_create",
+  "methodContextType": "SCENE",
+  "sceneKey": "gameOver"
+}

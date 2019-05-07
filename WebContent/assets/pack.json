@@ -1,0 +1,63 @@
+{
+  "section1": {"files": [
+    {
+      "type": "animation",
+      "key": "animations",
+      "url": "assets/animations.json"
+    },
+    {
+      "type": "sceneFile",
+      "key": "Scene1",
+      "url": "assets/scenes/Scene1.js"
+    },
+    {
+      "type": "multiatlas",
+      "key": "textures",
+      "url": "assets/atlas/textures.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "multiatlas",
+      "key": "pack",
+      "url": "assets/atlas/pack.json",
+      "path": "assets/atlas"
+    },
+    {
+      "type": "sceneFile",
+      "key": "gameOver",
+      "url": "assets/scenes/gameOver.js"
+    },
+    {
+      "type": "sceneFile",
+      "key": "menu",
+      "url": "assets/scenes/menu.js"
+    },
+    {
+      "type": "audio",
+      "key": "le-printemps-vivaldi",
+      "url": ["assets/music/le-printemps-vivaldi.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "ui_menu_button_error_message_01",
+      "url": ["assets/sons/ui_menu_button_error_message_01.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "ui_button_simple_click_07",
+      "url": ["assets/sons/ui_button_simple_click_07.mp3"]
+    },
+    {
+      "type": "audio",
+      "key": "ui_menu_button_click_01",
+      "url": ["assets/sons/ui_menu_button_click_01.mp3"]
+    }
+  ]},
+  "meta": {
+    "generated": "1556556517011",
+    "app": "Phaser Editor",
+    "url": "https://phasereditor2d.com",
+    "version": "1.0",
+    "copyright": "Arian Fornaris (c) 2015,2018"
+  }
+}
